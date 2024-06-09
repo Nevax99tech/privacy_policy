@@ -1,5 +1,4 @@
-Privacy Policy  
-==============
+# Privacy Policy
 
 Last updated: June 09, 2024
 
@@ -13,17 +12,17 @@ this Privacy Policy. This Privacy Policy has been created with the help of the
 [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-
 generator/).
 
-Interpretation and Definitions  
-------------------------------
+## Interpretation and Definitions
 
-Interpretation  
-~~~~~~~~~~~~~~
+Interpretation
+
+```
 
 The words of which the initial letter is capitalized have meanings defined
 under the following conditions. The following definitions shall have the same
 meaning regardless of whether they appear in singular or in plural.
 
-Definitions  
+Definitions
 ~~~~~~~~~~~
 
 For the purposes of this Privacy Policy:
@@ -67,28 +66,29 @@ For the purposes of this Privacy Policy:
     using the Service, as applicable.
 
 
-Collecting and Using Your Personal Data  
+Collecting and Using Your Personal Data
 ---------------------------------------
 
-Types of Data Collected  
-~~~~~~~~~~~~~~~~~~~~~~~
+Types of Data Collected
+```
 
-Personal Data  
-*************
+Personal Data
+
+---
 
 While using Our Service, We may ask You to provide Us with certain personally
 identifiable information that can be used to contact or identify You.
 Personally identifiable information may include, but is not limited to:
 
-  * Email address
+- Email address
 
-  * First name and last name
+- First name and last name
 
-  * Usage Data
+- Usage Data
 
+Usage Data
 
-Usage Data  
-**********
+---
 
 Usage Data is collected automatically when using the Service.
 
@@ -106,8 +106,9 @@ browser You use, unique device identifiers and other diagnostic data.
 We may also collect information that Your browser sends whenever You visit our
 Service or when You access the Service by or through a mobile device.
 
-Use of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Use of Your Personal Data
+
+```
 
 The Company may use Personal Data for the following purposes:
 
@@ -172,8 +173,8 @@ We may share Your personal information in the following situations:
   * With Your consent : We may disclose Your personal information for any
     other purpose with Your consent.
 
-Retention of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Retention of Your Personal Data
+```
 
 The Company will retain Your Personal Data only for as long as is necessary
 for the purposes set out in this Privacy Policy. We will retain and use Your
@@ -187,8 +188,9 @@ is used to strengthen the security or to improve the functionality of Our
 Service, or We are legally obligated to retain this data for longer time
 periods.
 
-Transfer of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Transfer of Your Personal Data
+
+```
 
 Your information, including Personal Data, is processed at the Company's
 operating offices and in any other places where the parties involved in the
@@ -206,7 +208,7 @@ of Your Personal Data will take place to an organization or a country unless
 there are adequate controls in place including the security of Your data and
 other personal information.
 
-Delete Your Personal Data  
+Delete Your Personal Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You have the right to delete or request that We assist in deleting the
@@ -219,49 +221,53 @@ You may update, amend, or delete Your information at any time by signing in to
 Your Account, if you have one, and visiting the account settings section that
 allows you to manage Your personal information. You may also contact Us to
 request access to, correct, or delete any personal information that You have
-provided to Us.
+provided to Us with this link https://www.nexraven.com/app/request.
 
 Please note, however, that We may need to retain certain information when we
 have a legal obligation or lawful basis to do so.
 
-Disclosure of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Disclosure of Your Personal Data
+```
 
-Business Transactions  
-*********************
+Business Transactions
+
+---
 
 If the Company is involved in a merger, acquisition or asset sale, Your
 Personal Data may be transferred. We will provide notice before Your Personal
 Data is transferred and becomes subject to a different Privacy Policy.
 
-Law enforcement  
-***************
+Law enforcement
+
+---
 
 Under certain circumstances, the Company may be required to disclose Your
 Personal Data if required to do so by law or in response to valid requests by
 public authorities (e.g. a court or a government agency).
 
-Other legal requirements  
-************************
+Other legal requirements
+
+---
 
 The Company may disclose Your Personal Data in the good faith belief that such
 action is necessary to:
 
-  * Comply with a legal obligation
-  * Protect and defend the rights or property of the Company
-  * Prevent or investigate possible wrongdoing in connection with the Service
-  * Protect the personal safety of Users of the Service or the public
-  * Protect against legal liability
+- Comply with a legal obligation
+- Protect and defend the rights or property of the Company
+- Prevent or investigate possible wrongdoing in connection with the Service
+- Protect the personal safety of Users of the Service or the public
+- Protect against legal liability
 
-Security of Your Personal Data  
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Security of Your Personal Data
+
+```
 
 The security of Your Personal Data is important to Us, but remember that no
 method of transmission over the Internet, or method of electronic storage is
 100% secure. While We strive to use commercially acceptable means to protect
 Your Personal Data, We cannot guarantee its absolute security.
 
-Changes to this Privacy Policy  
+Changes to this Privacy Policy
 ------------------------------
 
 We may update Our Privacy Policy from time to time. We will notify You of any
@@ -275,11 +281,12 @@ You are advised to review this Privacy Policy periodically for any changes.
 Changes to this Privacy Policy are effective when they are posted on this
 page.
 
-Contact Us  
+Contact Us
 ----------
 
 If you have any questions about this Privacy Policy, You can contact us:
 
   * By email: contact@nexraven.net
-  * Company Website: https://www.nexraven.com 
+  * Company Website: https://www.nexraven.com
 
+```
